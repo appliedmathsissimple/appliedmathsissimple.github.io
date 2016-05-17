@@ -1,9 +1,9 @@
 ---
 layout: post
 comments: true
-categories: npl
+categories: Linear algebra
 ---
 
-## Empty npl tutorial template
+## Vectors
 
-Empty post template
+Bla bla bla about vectors
